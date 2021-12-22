@@ -1,4 +1,5 @@
-<img src="https://github.com/marcospatton/LinguagemC/blob/main/c.png"></a>
+<img src="https://github.com/marcospatton/
+C_plus_plus_Introducao_-a_-linguagem_e_STL/blob/main/c.png"></a>
 
 # C_plus_plus_Introducao_-a_-linguagem_e_STL
 
