@@ -10,6 +10,9 @@
 <li>Como ler valores usando o cin
 <li>Como declarar e usar variáveis do tipo bool
 <li>Como utilizar o identificador const na declaração de variáveis
+<li>Como usar a função <i>srand()</i> para determinar a semente dos valores aleatórios
+<li>Como usar a função <i>rand()</i> para gerar valores aleatórios
+<li>Como usar a função módulo, ou resto de divisão, denotada por % para conseguir valores aleatórios menores
 
   
  
