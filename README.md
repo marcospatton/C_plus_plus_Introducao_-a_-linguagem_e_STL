@@ -7,6 +7,9 @@
 <li>Como compilar e rodar programas em C++
 <li>Como imprimir valores usando o cout
 <li>Como pular linhas na saída usando o endl
+<li>Como ler valores usando o cin
+<li>Como declarar e usar variáveis do tipo bool
+<li>Como utilizar o identificador const na declaração de variáveis
 
   
  
