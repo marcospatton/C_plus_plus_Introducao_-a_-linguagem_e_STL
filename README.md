@@ -13,6 +13,8 @@
 <li>Como usar a função <i>srand()</i> para determinar a semente dos valores aleatórios
 <li>Como usar a função <i>rand()</i> para gerar valores aleatórios
 <li>Como usar a função módulo, ou resto de divisão, denotada por % para conseguir valores aleatórios menores
-
+<li>Como usar variáveis do tipo String
+<li>Como usar laços de repetição do C++11
+<li>Como escrever um Makefile para compilar arquivos de C++ mais facilmente
   
  
