@@ -16,5 +16,7 @@
 <li>Como usar variáveis do tipo String
 <li>Como usar laços de repetição do C++11
 <li>Como escrever um Makefile para compilar arquivos de C++ mais facilmente
-  
+<li>Como inserimos valores em uma variável do tipo vector
+<li>Como imprimir os valores de um <i>vector</i> usando o for em intervalos
+<li>Como descobrir o tamanho de um <i>vector</i>, usando o método <i>size()</i>
  
