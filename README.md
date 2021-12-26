@@ -19,4 +19,7 @@
 <li>Como inserimos valores em uma variável do tipo vector
 <li>Como imprimir os valores de um <i>vector</i> usando o for em intervalos
 <li>Como descobrir o tamanho de um <i>vector</i>, usando o método <i>size()</i>
- 
+<li>Como ler e imprimir valores em arquivos usando os tipos <i>ifstream e ofstream</i>
+<li>Como checar se um arquivo pode ser acessado usando o <i>método is_open()</i>
+<li>Como usar o método <i>close()</i> para indicar a finalização de uso de um arquivo previamente aberto
+<li>Como interromper a execução de um programa usando <i>exit(0)</i>
